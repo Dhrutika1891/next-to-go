@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component categories radio should render categories radio 1`] = `
+<body>
+  <div>
+    <div
+      class="btn-group btn-group-toggle"
+      data-testid="radio-group"
+      role="group"
+    >
+      <label
+        class="categories-radio btn btn-light"
+        data-testid="radio-option"
+      >
+        <input
+          autocomplete="off"
+          name="value"
+          type="radio"
+          value="all"
+        />
+        All Races
+      </label>
+      <label
+        class="categories-radio btn btn-light"
+        data-testid="radio-option"
+      >
+        <input
+          autocomplete="off"
+          name="value"
+          type="radio"
+          value="9daef0d7-bf3c-4f50-921d-8e818c60fe61"
+        />
+        Greyhound racing
+      </label>
+      <label
+        class="categories-radio btn btn-light"
+        data-testid="radio-option"
+      >
+        <input
+          autocomplete="off"
+          name="value"
+          type="radio"
+          value="161d9be2-e909-4326-8c2c-35ed71fb460b"
+        />
+        Harness racing
+      </label>
+      <label
+        class="categories-radio btn btn-light"
+        data-testid="radio-option"
+      >
+        <input
+          autocomplete="off"
+          name="value"
+          type="radio"
+          value="4a2788f8-e825-4d36-9894-efd4baf1cfae"
+        />
+        Horse racing
+      </label>
+    </div>
+  </div>
+</body>
+`;

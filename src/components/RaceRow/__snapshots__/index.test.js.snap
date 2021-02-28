@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component race row should render race row 1`] = `
+<body>
+  <div>
+    <div
+      class="table-row"
+      data-testid="table-row"
+    >
+      <div
+        data-testid="table-column-1"
+      >
+        meeting name
+      </div>
+      <div
+        data-testid="table-column-2"
+      >
+        2
+      </div>
+      <div
+        data-testid="table-column-3"
+      >
+        countdown time
+      </div>
+    </div>
+  </div>
+</body>
+`;

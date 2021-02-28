@@ -1,0 +1,11 @@
+.table-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  border-bottom: 1px solid grey;
+
+  > div:nth-child(2),
+  :nth-child(3) {
+    justify-self: center;
+  }
+}
